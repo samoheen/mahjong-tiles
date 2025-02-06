@@ -7,3 +7,9 @@
 Mahjong Tiles
 =============
 This repository contains illustrations in svg and png formats dedicated to mahjong from different regions. Below you can see a preview for each of the available sets.
+
+![Hong Kong](https://github.com/samoheen/mahjong-tiles/blob/master/hongkong.png?raw=true)
+_Hong Kong set preview_.
+
+## License
+All files in this repository are [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
