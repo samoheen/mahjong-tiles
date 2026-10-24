@@ -14,5 +14,8 @@ _Hong Kong set preview_.
 ![Vietnam](https://github.com/samoheen/mahjong-tiles/blob/master/vietnam.png?raw=true)
 _Vietnam set preview_.
 
+![Taiwan](https://github.com/samoheen/mahjong-tiles/blob/master/taiwan.png?raw=true)
+_Taiwan set preview_.
+
 ## License
 All files in this repository are [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
