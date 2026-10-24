@@ -11,5 +11,8 @@ This repository contains illustrations in svg and png formats dedicated to mahjo
 ![Hong Kong](https://github.com/samoheen/mahjong-tiles/blob/master/hongkong.png?raw=true)
 _Hong Kong set preview_.
 
+![Vietnam](https://github.com/samoheen/mahjong-tiles/blob/master/vietnam.png?raw=true)
+_Vietnam set preview_.
+
 ## License
 All files in this repository are [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
